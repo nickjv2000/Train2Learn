@@ -1,0 +1,34 @@
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+input[type=text] {
+    background-color: #3550A0;
+}
+
+input[type=text] {
+    background-color: #3550A0;
+    height: 39px;
+}
+
+.header {
+    height: 50px;
+    background-color: #3550A0;
+}
+
+.logo {
+    width: 250px;
+    height: 125px;
+}
+
+h4.home {
+    color: #3550A0;
+}
+
+.trainingworkshop {
+    width: 40%;
+}
